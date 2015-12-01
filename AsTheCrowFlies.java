@@ -1,22 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Title:            P4
 // Files:            AsTheCrowFlies.java, Cities.java, Trip.java
-// Semester:         CS302 Spring 2015
-//
-// Author:           Caroline Shea
-// Email:            cashea2@wisc.edu
-// CS Login:         caroline
-// Lecturer's Name:  Deppeler
-// Lab Section:      325
-//
-///////////////////////////////////////////////////////////////////////////////
-//
-// Pair Partner:     Shannon Olson
-// Email:            smolson6@wisc.edu
-// CS Login:         shannon
-// Lecturer's Name:  Hobbes Legault
-// Lab Section:      335
-//
+// 
 ///////////////////////////////////////////////////////////////////////////////
 import java.util.*;
 import java.io.*;
